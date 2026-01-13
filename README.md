@@ -1,4 +1,3 @@
-# AdventureWorks_2026_Challenge
 # Dashboard de Vendas - AdventureWorks
 
 Dasboard desenvolvido para apresentar os dados da base AdventureWorks com foco em praticidade, e facilidade na compreensão dos dados.
