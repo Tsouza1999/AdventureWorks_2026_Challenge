@@ -29,7 +29,9 @@ SQL Server Developer 19
 ```bash
 pip install streamlit pandas pyodbc sqlalchemy matplotlib seaborn
 python -m pip install streamlit
+python -m pip install plotly
 python -m streamlit --version
 pip install -r requirements.txt
+
 
 <!-- para executar o projeto --> python -m streamlit run app.py 
